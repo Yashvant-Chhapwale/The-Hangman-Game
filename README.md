@@ -25,11 +25,11 @@ A classic Hangman word-guessing game built with Python. Test your skills by unco
 ---
 
 ## Demonstration
-  - Suppose, **`Key = 3`**
-  - **`Message  = 'Hello World!'`**
-  - Then, For **`Action = Encode`**:<br>
-    ![Encode_Output](https://github.com/user-attachments/assets/ca3232cb-70f6-4ec8-a394-beab2f9711d3)
-  - Similarly, For **`Action = Decode`**:<br>
-    ![Decode_Output](https://github.com/user-attachments/assets/05296c37-6b01-4420-b051-5ee3c0f21f43)
+  - **`Landing Page` for the Game**:<br>
+    ![Game_Landing](https://github.com/user-attachments/assets/5f0f0766-6c22-46b0-9757-d02550f76b4a)
+  - **`Game_Over Screen` for the Game**:<br>
+    ![Game_Over_Screen](https://github.com/user-attachments/assets/558e5873-f061-48cb-86a4-f5e51c844501)
+  - **`Game_Win Screen` for the Game**:<br>
+    ![Game_Win_Screen](https://github.com/user-attachments/assets/72a2ed28-ea43-450b-9147-6829091e180c) 
 
 ---
