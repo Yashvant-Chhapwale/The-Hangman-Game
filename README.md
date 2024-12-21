@@ -3,9 +3,11 @@ A classic Hangman word-guessing game built with Python. Test your skills by unco
 
 ---
 
-### Caesar Cipher:
-  - The `Caesar Cipher` is a simple encryption technique where each letter in the plaintext is shifted a certain number of places down or up the alphabet.
-  - For example, with a shift of 3:
+### The_Hangman_Game:
+  - The Hangman Game is a classic word-guessing game where players try to reveal a hidden word by guessing its letters.
+  - Each incorrect guess brings the player closer to "hanging," represented by a drawing or a countdown.
+  - The challenge is to guess the word correctly before running out of attempts.
+  - **Rules**:
     - A becomes D
     - B becomes E
     - C becomes F
