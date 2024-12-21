@@ -4,25 +4,14 @@ A classic Hangman word-guessing game built with Python. Test your skills by unco
 ---
 
 ### The_Hangman_Game:
-  - The Hangman Game is a classic word-guessing game where players try to reveal a hidden word by guessing its letters.
-  - Each incorrect guess brings the player closer to "hanging," represented by a drawing or a countdown.
-  - The challenge is to guess the word correctly before running out of attempts.
+  - The `Hangman Game` is a classic `Word-Guessing Game` where players try to reveal a hidden word by guessing its letters.
+  - Each incorrect guess brings the player closer to `Hanging`, represented by a drawing or a countdown.
+  - The Challenge is to guess the word correctly before running out of attempts.
   - **Rules**:
-    - A becomes D
-    - B becomes E
-    - C becomes F
-    - and so on ...    
-  - The Caesar Cipher is considered a `symmetric key encryption method`. This means that the same key (i.e shift value) is used for both encryption and decryption.
-  - `Encryption`: The sender uses a key (or shift value) to `encrypt` the message.
-  - `Decryption`: The receiver uses the same key as the sender to `decrypt` the message back to its original form.
-
-### Drawbacks:
-  - **`No Complexity`:** The lack of complexity in the shifting process makes it vulnerable.
-  - **`Lack Of Security`:** The security relies on the secrecy of the key, if someone knows the shift value, they can easily decrypt the message.
-  - **`Plaintext Patterns`:** The structure of the plaintext (e.g., common letters, symbols, words and phrases) can be identified in the ciphertext, making it easier to decipher.
-
-### Note:
-  - The `Caesar Cipher` is usually designed for alphabetic characters, but it can be customized to accommodate numbers and symbols as well.
+    - **Guess the Word:** A hidden word is displayed as blanks (_ _ _ _), and your goal is to guess the word by suggesting one letter at a time.
+    - **Correct Guesses:** If you guess a correct letter, it is revealed in all its positions within the word.
+    - **Incorrect Guesses:** Each incorrect guess brings you closer to "hanging," with a limited number of wrong attempts allowed.
+    - **Winning or Losing:** Win by revealing the entire word before running out of attempts. Lose if you exceed the maximum number of wrong guesses.
 
 ---
 
